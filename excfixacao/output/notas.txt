@@ -1,0 +1,4 @@
+Maria 7 5 8
+Joao 2 7 7
+Ze 9 10 3
+Rute 3 5 9
